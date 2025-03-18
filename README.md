@@ -15,9 +15,9 @@ A aplicação propõe uma abordagem única para promover a interação física e
 
 - Figma
 
-## Visualização do Protótipo
+## Resultado
 
-> https://www.figma.com/proto/b1mwLfLVJNjyDiXRt69i69/Movu?node-id=4-5&p=f&t=1mKXmZ7pPWHaukQd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A4
+> Visualize o protótipo [aqui](https://www.figma.com/proto/b1mwLfLVJNjyDiXRt69i69/Movu?node-id=4-5&p=f&t=1mKXmZ7pPWHaukQd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A4)!
   
 <br/>
 
